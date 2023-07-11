@@ -1,0 +1,14 @@
+h1 {
+    color:lightgreen;
+}
+
+table,th,td {
+    border: 1px solid;
+}
+
+form {
+    margin-top: 20px;
+}
+.wasd {
+    color:deeppink;
+}
